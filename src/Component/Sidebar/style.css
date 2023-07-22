@@ -1,0 +1,24 @@
+.Dashboard {
+    color: black;
+}
+
+.Dashboard:hover {
+    background-color: blue;
+    color: white;
+    cursor: pointer;
+}
+
+.logout {
+    color: black;
+}
+
+.logout:hover {
+    background-color: red;
+    color: white;
+    cursor: pointer;
+
+}
+
+.text-dark {
+    width: 15%;
+}
